@@ -1,3 +1,2 @@
 # SmartCalculatorApp
-Mobil Uygulama Geliştirme Dersi Projesi  
-Oğuzhan Tohumcu - B181210397
+Mobil Uygulama Geliştirme Dersi Projesi
